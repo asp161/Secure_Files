@@ -1,2 +1,6 @@
 # SecureFiles
- Encriptar Archivos multimedia con diferentes claves
+ Encriptar archivos multimedia
+
+ Trabajo realizado para la asignatura de Compresión y Seguridad
+ Grado de Ingeniería Multimedia
+
